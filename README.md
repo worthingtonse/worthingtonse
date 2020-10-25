@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: CloudCoin@Protonmail.com
 -->
 
-[<img align="left" alt="Seanworthington.com" src="http://seanworthington.com/images/rsf.jpg"/>]
+[<img align="left" alt="Seanworthington.com" src="http://seanworthington.com/images/rsf.jpg"/>][website]
+
 
 ## Accomplishments 
 * Author: Beyond Bitcoin: The Future of Digital Currency.
