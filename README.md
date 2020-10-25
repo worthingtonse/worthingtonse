@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 * Inventor: Digital Currency Based on the RAIDA (Redundant Array of Independent Detection Agents. 
 * Patent on Digital Currency: 10650375
 
-[<img align="left" alt="Seanworthington.com" width="22px" src="https://cloudcoinconsortium.org/images/jpeg250.jpg" />][website]
+[<img align="left" alt="Seanworthington.com" width="400px" src="https://cloudcoinconsortium.org/images/jpeg250.jpg" />][website]
 
 
 
