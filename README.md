@@ -11,10 +11,10 @@ Here are some ideas to get you started:
 -->
 
 ## Accomplishments 
-*Author: Beyond Bitcoin: The Future of Digital Currency.
-*President: CloudCoin Consortium.
-*Inventor: Digital Currency Based on the RAIDA (Redundant Array of Independent Detection Agents. 
-*Patent on Digital Currency: 10650375
+* Author: Beyond Bitcoin: The Future of Digital Currency.
+* President: CloudCoin Consortium.
+* Inventor: Digital Currency Based on the RAIDA (Redundant Array of Independent Detection Agents. 
+* Patent on Digital Currency: 10650375
 
 [website]: http://Seanworthington.com
 [twitter]: https://twitter.com/CloudCoinGlobal
