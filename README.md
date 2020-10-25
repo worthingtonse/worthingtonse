@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 [<img align="left" alt="Seanworthington.com" src="http://seanworthington.com/images/rsf.jpg"/>][website]
 
-<br>
+<br />
 ## Accomplishments 
 * Author: Beyond Bitcoin: The Future of Digital Currency.
 * President: CloudCoin Consortium.
