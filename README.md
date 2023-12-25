@@ -1,4 +1,4 @@
-### Virtual Currency Software Engineer 👋
+### Digital Currency Software Engineer 👋
 
 <!--
 **worthingtonse/worthingtonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 
 
 ## Accomplishments 
+* [Patent 10,650,375 Method of Authenticating and Exchanging Virtual Currencies](https://patentimages.storage.googleapis.com/f7/a7/1e/28c008cd7e4343/US10650375.pdf) 
 * Author: Beyond Bitcoin: The Future of Digital Currency.
 * President: CloudCoin Consortium.
 * Inventor: Digital Currency Based on the RAIDA (Redundant Array of Independent Detection Agents. 
