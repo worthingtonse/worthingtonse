@@ -1,4 +1,4 @@
-### Hi there, I'm Sean Worthington, Computer Scientist 👋
+### Virtual Currency Software Engineer 👋
 
 <!--
 **worthingtonse/worthingtonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
