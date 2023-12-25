@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: CloudCoin@Protonmail.com
 -->
 
-![Image of me talking](http://seanworthington.com/images/rsf.jpg)
+![Image of me talking](https://github.com/worthingtonse/worthingtonse/blob/main/0.jpg)
 
 
 ## Accomplishments 
