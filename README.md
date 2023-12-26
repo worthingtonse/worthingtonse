@@ -19,12 +19,3 @@ Guest Speaker on digital currencies at Freedomfest
 * Inventor: Digital Currency Based on the RAIDA (Redundant Array of Independent Detection Agents.
 ![Image of a 5 CC Note](https://github.com/worthingtonse/worthingtonse/blob/main/Fives_2%20_preview.jpeg)
 
-
-![Image of me talking](https://github.com/worthingtonse/worthingtonse/blob/main/0.jpg)
-
-
-
-
-
-
-[website]: http://Seanworthington.com
