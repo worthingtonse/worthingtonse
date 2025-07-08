@@ -1,4 +1,4 @@
-# Digital Currency Software Engineer
+# High Security & Digital Currency Software Engineer
 
 <!--
 **worthingtonse/worthingtonse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 ![Image of a 5 CC Note](https://github.com/worthingtonse/worthingtonse/blob/main/Fives_2%20_preview.jpeg)
 
-- 🔭 I’m currently working on CloudCoin.
+- 🔭 I’m currently working on QSockets.
 - 💬 Ask me about The Theory of Perfect Money...
 - 📫 How to reach me: CloudCoin@Protonmail.com
 -->
