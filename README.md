@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Qmail, a distributed email system that is quantum safe and uses digital currency.
+- 🔭 I’m currently working on DMS, a distributed email system that is quantum safe and uses digital currency.
 - 💬 Ask me about The Theory of Perfect Money...
 - 📫 How to reach me: CloudCoin@Protonmail.com
 
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 * Author: [Perfect Money: How your enslavement ends](https://a.co/d/5ZySLMb)
 * Author: [Beyond Bitcoin: The Future of Digital Currency](https://a.co/d/iLgJcx1)
 * Inventor: Best Digital Currency in the World: [CloudCoin](https://cloudcoin.org).
-<img src="https://github.com/worthingtonse/worthingtonse/blob/main/Fives_2%20_preview.jpeg" alt="drawing" width="200">
-<img src="https://github.com/worthingtonse/worthingtonse/blob/main/Hero_Illustration_Final_min3.gif" width="200">
 
